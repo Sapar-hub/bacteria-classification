@@ -1,6 +1,8 @@
 # SERS Bacteria Classification
 
-This project uses machine learning to classify two types of bacteria, *Staphylococcus* and *Pseudomonas*, based on their Surface-Enhanced Raman Spectroscopy (SERS) spectra.
+This project uses machine learning to classify two types of bacteria, *Staphylococcus* (Gram-positive) and *Pseudomonas* (Gram-negative), based on their Surface-Enhanced Raman Spectroscopy (SERS) spectra.
+
+> **Note:** It was developed for the "Classification of bacteria by combination scattering spectra" project within the Scientific and Technical Conference of RTU MIREA, section "Applied Physics", May 2025. I do not plan to maintain or continue this project unless practical use is defined and real raw data is acquired. The project achieved an accuracy of 83% in separating two classes of bacteria.
 
 ## Overview
 
