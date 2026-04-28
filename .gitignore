@@ -14,17 +14,3 @@ GEMINI.md
 
 # Data and model files
 data/
-
-# Generated images and documents
-*.png
-*.jpg
-*.jpeg
-*.gif
-*.zip
-*.pdf
-*.docx
-*.pptx
-
-# Analysis and documentation folders
-/analysis of spectrums/
-/Формальщина/
